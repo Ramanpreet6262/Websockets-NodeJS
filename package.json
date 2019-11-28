@@ -1,0 +1,19 @@
+{
+  "name": "socketio-nodejs",
+  "version": "1.0.0",
+  "description": "Websockets practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramanpreet6262/Socketio-NodeJS.git"
+  },
+  "author": "Ramanpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramanpreet6262/Socketio-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Ramanpreet6262/Socketio-NodeJS#readme"
+}
